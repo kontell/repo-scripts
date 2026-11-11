@@ -1,0 +1,38 @@
+v0.3.2
+• Removed "Some skins ignore this" from two settings tooltips
+• Translated the summary and description
+
+v0.3.1
+• Fixed lyrics stuck on the top row and scrolling in jumps on Kodi 22
+• Fixed untimed lyrics opening mid-song
+• Fixed the sung line jumping to the top after seeking back
+• Fixed the lyrics window starting on the first line when opened mid-song
+• Fixed the first arrow press in the lyrics window not scrolling
+• Fixed scrolling by hand running past the end of the lyrics
+• Fixed the sung line sitting high in skins that don't resize their overlay
+• Fixed Kodi freezing if the add-on was updated or disabled with its window open
+• Added machine translations for 26 languages, pending review by native speakers
+• Removed the debug logging setting; use Kodi's debug logging instead
+• Relicensed under GPL v2 or later
+
+v0.3.0
+• Four lyrics window widths instead of three
+
+v0.2.0
+• Lyrics window resizes in one glide per song
+• Fixed a crash after Kodi closed the lyrics window itself
+• New setting: lyrics window height
+• Skin overlays sized per song and to the height setting (Contuary 2.7)
+
+v0.1.2
+• Lyrics window fits its widest line
+
+v0.1.1
+• Fixed the lyrics window keeping the previous song's width
+• Added the add-on icon
+
+v0.1.0
+• First release: Jellyfin lyrics via Kofin, in time with the music where timed
+• Skins that draw lyrics themselves take precedence (Contuary 2.2.0+)
+• Lyrics button on the music OSD to scroll by hand
+• Settings for automatic display, timing offset, untimed lyrics and debug logging
